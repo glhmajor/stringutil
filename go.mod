@@ -1,3 +1,3 @@
-module github.com/user/stringutil
+module github.com/glhmajor/stringutil
 
 go 1.12
